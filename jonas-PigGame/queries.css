@@ -1,0 +1,37 @@
+@media (max-width: 50em) {
+  html {
+    font-size: 50%;
+  }
+}
+@media (max-width: 40em) {
+  html {
+    font-size: 60%;
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+  .dice {
+    top: 46rem;
+  }
+
+  .btn--roll {
+    top: 50.3rem;
+    transform: translateX(13rem);
+  }
+  .btn--hold {
+    top: 50.3rem;
+    transform: translateX(-27rem);
+  }
+}
+@media (max-width: 34em) {
+  html {
+    font-size: 50%;
+  }
+  .dice {
+    top: 49rem;
+  }
+}

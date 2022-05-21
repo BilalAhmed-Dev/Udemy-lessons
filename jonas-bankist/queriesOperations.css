@@ -1,0 +1,11 @@
+@media (max-width: 50em) {
+  .app {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 41em) {
+  html {
+    font-size: 40%;
+  }
+}
