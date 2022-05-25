@@ -2,7 +2,7 @@
 
 ## The good:
 * All lines of code were written by me
-* No copy - paste
+* No copy/paste
 * I have understood the logic
 * I can implement the skills taught here in a real working environment
 ## The bad:
